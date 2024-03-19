@@ -43,7 +43,7 @@ def get_cached_coords(path):
         return coords
 
 
-sorted_coords = get_cached_coords('Coords Cache.txt')
+sorted_coords = get_cached_coords('CoordsCache.txt')
 
 
 # Finds the pixel 180 degrees away, centered at the player
