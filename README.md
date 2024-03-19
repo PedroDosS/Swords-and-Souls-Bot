@@ -1,5 +1,10 @@
 # Swords-and-Souls-Bot
-A Python script to automatically play the defense training minigame in Swords and Shields
+A Python script to automatically play the defense training minigame in Swords and Souls
+
+# About:
+This is a bot created to automatically play the defense training minigame in Swords and Souls. It captures
+the screen to detect where apples/stars are and block/dodge them respectively. The bot can reach a 
+seemingly infinite score (up to a 100,000 combo before I stopped it).
 
 # How to Run:
 - Download block.py, CoordsCache.txt, coords.py
