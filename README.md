@@ -1,6 +1,7 @@
 # Swords and Souls Bot
 
 ![Screenshot](https://github.com/PedroDosS/Swords-and-Souls-Bot/assets/90741843/8f26c13b-30a9-42a6-b4f6-514ab25f2d72)
+
 https://github.com/PedroDosS/Swords-and-Souls-Bot/assets/90741843/c286fa22-158a-4a64-85e6-2685e1845796
 
 # About:
