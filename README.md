@@ -22,7 +22,7 @@ seemingly infinite score (up to a 100,000 combo before I stopped it).
 - To move or resize the game screen (not recommended):
   - Adjust game_screen and origin in block.py to the desired location of the screen
   - Delete CoordsCache.txt
-  - coords.py
+  - Run coords.py to regenerate CoordsCache.txt
 - Run block.py to start the bot
 - Right-click to exit the program
 
