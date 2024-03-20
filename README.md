@@ -5,9 +5,13 @@
 https://github.com/PedroDosS/Swords-and-Souls-Bot/assets/90741843/c286fa22-158a-4a64-85e6-2685e1845796
 
 # About:
-This is a bot created to automatically play the defense training minigame in Swords and Souls. It captures
-the screen to detect where apples/stars are and block/dodge them respectively. The bot can reach a 
-seemingly infinite score (up to a 100,000 combo before I stopped it).
+Swords and Souls is a 2015 RPG where the player must defeat waves of enemies in a 
+battle arena. To progress further, the player can level up various combat-related 
+skills in 5 different minigames. In the defense minigame, apples are thrown at the 
+player from all direction, which the player must block. This bot automatically plays
+this minigame by capturing the screen, detecting where the apples are, and blocking them.
+This bot is able to play the minigame infinitely, with a score of over 100,000 apples
+blocked before I stopped it.
 
 # How to Run:
 - Download block.py, CoordsCache.txt, coords.py
