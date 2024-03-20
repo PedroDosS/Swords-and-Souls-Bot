@@ -25,4 +25,4 @@ seemingly infinite score (up to a 100,000 combo before I stopped it).
 - [Pillow](https://pillow.readthedocs.io/en/stable/): Image processing library used to capture the screen
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/): Input library used to control the mouse
 - [Mouse](https://pypi.org/project/mouse/): Input library used to detect user input
-
+- [Tkinter](https://docs.python.org/3/library/tkinter.html): Required for PyAutoGUI
